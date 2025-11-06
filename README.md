@@ -46,5 +46,3 @@ The program uses a **colorful console interface** for a better user experience:
 
 ---
 
-## 📂 Project Structure
-
